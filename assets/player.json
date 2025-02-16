@@ -1,106 +1,49 @@
 {
   "frames": [
     {
-      "filename": "walk_down_0",
-      "frame": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
+      "filename": "idle_0",
+      "frame": { "x": 0, "y": 0, "w": 160, "h": 200 },
+      "sourceSize": { "w": 160, "h": 200 }
     },
     {
-      "filename": "walk_down_1",
-      "frame": { "x": 48, "y": 0, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
+      "filename": "idle_1",
+      "frame": { "x": 160, "y": 0, "w": 160, "h": 200 },
+      "sourceSize": { "w": 160, "h": 200 }
     },
     {
-      "filename": "walk_down_2",
-      "frame": { "x": 96, "y": 0, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
+      "filename": "walk_0",
+      "frame": { "x": 320, "y": 0, "w": 160, "h": 200 },
+      "sourceSize": { "w": 160, "h": 200 }
     },
     {
-      "filename": "walk_left_0",
-      "frame": { "x": 0, "y": 32, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
+      "filename": "walk_1",
+      "frame": { "x": 480, "y": 0, "w": 160, "h": 200 },
+      "sourceSize": { "w": 160, "h": 200 }
     },
     {
-      "filename": "walk_left_1",
-      "frame": { "x": 48, "y": 32, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
+      "filename": "walk_2",
+      "frame": { "x": 640, "y": 0, "w": 160, "h": 200 },
+      "sourceSize": { "w": 160, "h": 200 }
     },
     {
-      "filename": "walk_left_2",
-      "frame": { "x": 96, "y": 32, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
+      "filename": "walk_3",
+      "frame": { "x": 800, "y": 0, "w": 160, "h": 200 },
+      "sourceSize": { "w": 160, "h": 200 }
     },
     {
-      "filename": "walk_right_0",
-      "frame": { "x": 0, "y": 64, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
+      "filename": "walk_4",
+      "frame": { "x": 960, "y": 0, "w": 160, "h": 200 },
+      "sourceSize": { "w": 160, "h": 200 }
     },
     {
-      "filename": "walk_right_1",
-      "frame": { "x": 48, "y": 64, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
-    },
-    {
-      "filename": "walk_right_2",
-      "frame": { "x": 96, "y": 64, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
-    },
-    {
-      "filename": "walk_up_0",
-      "frame": { "x": 0, "y": 96, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
-    },
-    {
-      "filename": "walk_up_1",
-      "frame": { "x": 48, "y": 96, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
-    },
-    {
-      "filename": "walk_up_2",
-      "frame": { "x": 96, "y": 96, "w": 32, "h": 32 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
-      "sourceSize": { "w": 32, "h": 32 }
+      "filename": "walk_5",
+      "frame": { "x": 1120, "y": 0, "w": 160, "h": 200 },
+      "sourceSize": { "w": 160, "h": 200 }
     }
   ],
   "meta": {
-    "image": "playeratlas.png",
-    "format": "RGBA8888",
-    "size": { "w": 128, "h": 128 },
-    "scale": "4"
+    "image": "playeratlas6.png",
+    "size": { "w": 1280, "h": 200 },
+    "scale": "1"
   }
 }

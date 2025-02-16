@@ -1,12 +1,12 @@
 {
   "icons": [
     {
-      "src": "/anime-bullet-heaven/icons/icon_512x512.63e06b8b46a659c1495f42e4a2f6aaac.png",
+      "src": "/icons/icon_512x512.63e06b8b46a659c1495f42e4a2f6aaac.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/anime-bullet-heaven/icons/icon_192x192.63872265516bd0f15aeaafc637771d18.png",
+      "src": "/icons/icon_192x192.63872265516bd0f15aeaafc637771d18.png",
       "sizes": "192x192",
       "type": "image/png"
     }
